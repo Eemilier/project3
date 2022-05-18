@@ -1,0 +1,265 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+width: 1450px;
+
+
+
+
+}
+.navbar-brand{
+    height: 50px;
+    width: 150px;
+    display: flex;
+    position: relative;
+    padding-left: 50px;
+    float: left;
+}
+
+li{
+    list-style: none;
+}
+
+#hero{
+    width: 1200px;
+    margin: auto;
+   
+}
+
+.navbar{
+    margin-bottom: o;
+    height: 40px;
+    background-color: peru;
+    margin: 30px auto;
+    justify-content: space-around;
+}
+
+.navbar-nav{
+    padding-left: 50px;
+    width: 500px;
+}
+
+.navbar .collapse{
+    padding-left: 30px;
+}
+.navbar .collapse ul li{
+margin: 0 10px;
+
+
+}
+.navbar .collapse ul li .nav-link{
+    display: block;
+    height: 40px;
+   padding: 10px;
+   float: left;
+   
+
+}
+
+
+
+    
+
+.search input{
+   border-radius: 200px;
+    border: none;
+    justify-content: center;
+}
+
+.container{
+margin-left: 30px;
+}
+.container input{
+    padding-left: 10px;
+    border: none;
+    border-radius: 200px;
+}
+
+.container button{
+    border-radius: 200px;
+    border: none;
+    width: 24px;
+    height: 24px;
+background: url(/images/search_small.svg);
+background-color: white;
+
+
+}
+
+.container button img{
+width: 30px;
+height: 30px;
+}
+
+
+.navIcons {
+ position: relative;
+padding-right: 20px;
+  width: 100%;
+ margin-left: 10px;
+}
+.navIcons img {
+    width: 20px;
+  margin-left: 20px;
+}
+
+.breadcrumb{
+    height: 20px;
+    margin: 0;
+    background-color: white;
+
+}
+
+.bookcover{
+    margin-top: 20px;
+    display: flex;
+
+}
+.bookcover img{
+    margin-right: 30px;
+}
+
+.Icons{
+    display: flex;
+    position: relative;
+}
+.Icons img{
+    width: 20px;
+    height: 20px;
+   
+}
+
+.content{
+    display: flex;
+    width: 700px;
+}
+
+.add{
+    width: 200px;
+    height: 30px;
+    background-color: black;
+    border-radius: 200px;
+    color: white;
+    align-content: center;
+    font-size: small;
+    padding-left: 50px;
+    padding-top: 5px;
+}
+
+.addrec{
+    display: flex;
+    position: relative;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.rec{
+    justify-content: space-between;
+    margin-left: 50px;
+    width: 200px;
+    height: 30px;
+    background-color: black;
+    border-radius: 200px;
+    color: white;
+ 
+    padding-left: 10px;
+    font-size: small;
+    padding-top: 5px;
+}
+
+.addrec img{
+    display: flex;
+    position: relative;
+    width: 20px;
+    height: 20px;
+
+}
+
+.btn-group{
+    width: 1200px;
+    height: 50px;
+    margin-top: 50px;
+}
+
+.btn1{
+    background-color: green;
+    width: 38%;
+    color: white;
+    border: none;
+    font-size: 25px;
+}
+.btn2{
+    background-color: white;
+    width: 38%;
+    color: black;
+    font-size: 25px;
+}
+.btn3{
+    background-color: white;
+    width: 38%;
+    color: black;
+    font-size: 25px;
+    border-left: none;
+}
+
+form{
+    margin-top: 10px;
+}
+
+.comment img{
+    float: left;
+    width: 50px;
+    height: 50px;
+    margin-top: 20px;
+    border: 5px burlywood solid;
+    border-radius: 200px;}
+
+    .kat{
+        margin-top: 20px;
+        margin-left: 20px;
+    float: left;
+
+    }
+
+    .comment .one{
+        color: rgb(205, 199, 199);
+    }
+
+   p .read{
+        color: green;
+    }
+    p{
+        width: 100%;
+        clear: both;
+        padding-top: 10px;
+    }
+
+   span .reviewIcons img{
+       width: 40px;
+       height: 40px;
+       padding-right: 10px;
+   }
+
+   .more{
+       width: 100%;
+       height: 30px;
+       border: 1px solid black;
+       text-align: center;
+       margin-top: 50px;
+   }
+
+  .reads{
+      float: left;
+   background-color: aliceblue;
+      width: 100%;
+   
+     
+color: red;
+  }
+
+  .footer img{
+      width: 100%;
+  }
+
